@@ -1,11 +1,12 @@
 ---
 
-
-
 copyright:
   years: 2019
-lastupdated: "2019-01-11"
+lastupdated: "2019-03-04"
 
+keywords: SAP Business One, provisioning
+
+subcollection: sap-b1
 
 ---
 
@@ -21,7 +22,7 @@ lastupdated: "2019-01-11"
 # Planning your SAP Business One implementation
 {: #plan}
 
-You're ready to begin planning your SAP Business One implementation. There are a couple of things to consider before you implement it - how are you going to use the application, and are you going to run it in the cloud or on-premises?
+You're ready to begin planning your SAP Business One implementation. There are a couple of things to consider before you implement it - how are you going to use the application and are you going to run it in the cloud or on-premises?
 {: shortdesc}
 
 ## How are you going to use SAP Business One?
@@ -32,9 +33,9 @@ You need to ask yourself how are you going to use SAP Business One _before_ you 
 ## How are you going to provision SAP Business One, in the cloud or on-premises?
 {: #how_provision}
 
-For help in making your decision, see [Provisioning SAP Business One](/docs/infrastructure/sap-b1/b1-provision.html#provision).
+For help in making your decision, see [Provisioning SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-provision#provision).
 
 ## Next Steps
 
-* [Provisioning SAP Business One](/docs/infrastructure/sap-b1/b1-provision.html#provision)
-* [Managing SAP Business One](/docs/infrastructure/sap-b1/b1-manage.html#manage)
+* [Provisioning SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-provision#provision)
+* [Managing SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-manage#manage)

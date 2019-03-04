@@ -1,11 +1,12 @@
 ---
 
-
-
 copyright:
   years: 2019
-lastupdated: "2019-01-11"
+lastupdated: "2019-03-04"
 
+keywords: SAP Business One
+
+subcollection: sap-b1
 
 ---
 

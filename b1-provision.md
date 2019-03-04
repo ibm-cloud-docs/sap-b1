@@ -1,11 +1,12 @@
 ---
 
-
-
 copyright:
   years: 2019
-lastupdated: "2019-01-11"
+lastupdated: "2019-03-04"
 
+keywords: SAP Business One
+
+subcollection: sap-b1
 
 ---
 
@@ -19,9 +20,9 @@ lastupdated: "2019-01-11"
 # Provisioning SAP Business One
 {: #provision}
 
-SAP Business One can be provisioned on-premises or on the cloud through an SAP partner. If you're planning on running on-premises, review the [SAP Business One Hardware Requirements Guide ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://accounts.sap.com/saml2/idp/sso/accounts.sap.com){: new_window} and [SAP Business One Platform Support Matrix ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://accounts.sap.com/saml2/idp/sso/accounts.sap.com){: new_window}. Both guides require an S-User ID.
+SAP Business One is provisioned either on-premises or on the cloud through an SAP partner. If you're planning on running on-premises, review the [SAP Business One Hardware Requirements Guide ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://sap.silvertouch.com/wp-content/uploads/2018/07/b1-hardware-requirements-guide-new.pdf){: new_window} and [SAP Business One Platform Support Matrix ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://support.sap.com/en/offerings-programs/support-small-medium-enterprises/business-one.html){: new_window}. 
 
-If you're planning on running in the cloud, you'll be using an SAP partner to host your SAP Business One modules. Click [here ![External link icon](../../icons/launch-glyph.svg "External link icon") ](https://partneredge.sap.com/content/partnerfinder/search.html#/search/results?itemsPerPage=10&partnerproducts=scm_v_ss5_sol1&scm_is_solution_authorized=1&sortBy=shortname&sortOrder=asc){: new_window} to search for an SAP partner who meets your needs.
+If you're planning on running on the cloud, select an SAP partner to host your SAP Business One modules. Click [here ![External link icon](../../icons/launch-glyph.svg "External link icon") ](https://partneredge.sap.com/content/partnerfinder/search.html#/search/results?itemsPerPage=10&partnerproducts=scm_v_ss5_sol1&scm_is_solution_authorized=1&sortBy=shortname&sortOrder=asc){: new_window} to search for an SAP partner who meets your needs.
 
 For more implementation-related information, see [Product Implementation ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.sap.com/products/business-one/implementation.html){: new_window}.
 
@@ -34,4 +35,4 @@ Training is also available on the different SAP Business One modules. For more i
 
 ## Next Steps
 
-* [Managing SAP Business One](/docs/infrastructure/sap-b1/b1-manage.html#manage)
+* [Managing SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-manage#manage)

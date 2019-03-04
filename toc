@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="sap-b1" audience="compute" href="/docs/infrastructure/sap-b1/b1-index.html" path="infrastructure/sap-b1"}
+{: .toc subcollection="sap-b1" audience="compute" href="/docs/infrastructure/sap-b1?topic=infrastructure/sap-b1-getting-started#getting-started" path="infrastructure/sap-b1"}
 SAP Business One on IBM Cloud
 
     {: .navgroup id="learn"}
@@ -26,6 +26,6 @@ SAP Business One on IBM Cloud
     {: .navgroup id="help"}
     b1-support.md
 
-          
+
 
 {: .navgroup-end}
