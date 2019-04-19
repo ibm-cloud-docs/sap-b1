@@ -1,0 +1,31 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="sap-b1" audience="compute" href="/docs/infrastructure/sap-b1?topic=infrastructure/sap-b1-getting-started#getting-started" path="infrastructure/sap-b1"}
+IBM Cloud での SAP Business One
+
+    {: .navgroup id="learn"}
+    b1-index.md
+    b1-about.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    {: .topicgroup}
+    Planning
+        b1-planning.md
+
+    {: .topicgroup}
+    Provisioning
+        b1-provision.md
+
+    {: .topicgroup}
+    Managing
+        b1-manage.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    b1-support.md
+
+
+
+{: .navgroup-end}
