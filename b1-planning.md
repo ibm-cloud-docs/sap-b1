@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-03-04"
+lastupdated: "2019-08-20"
 
 keywords: SAP Business One, provisioning
 
@@ -13,7 +13,7 @@ subcollection: sap-b1
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
@@ -28,7 +28,7 @@ You're ready to begin planning your SAP Business One implementation. There are a
 ## How are you going to use SAP Business One?
 {: #how_using}
 
-You need to ask yourself how are you going to use SAP Business One _before_ you implement it. For example, do you just need the Financial Management and Sales and Customer Management modules to start? Maybe you need all three modules. For more information on the modules, see [Features ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.sap.com/products/business-one/features.html){: new_window}.
+You need to ask yourself how are you going to use SAP Business One _before_ you implement it. For example, do you just need the Financial Management and Sales and Customer Management modules to start? Maybe you need all three modules. For more information on the modules, see [Features](https://www.sap.com/products/business-one/features.html){: external}.
 
 ## How are you going to provision SAP Business One, in the cloud or on-premises?
 {: #how_provision}
@@ -36,6 +36,8 @@ You need to ask yourself how are you going to use SAP Business One _before_ you 
 For help in making your decision, see [Provisioning SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-provision#provision).
 
 ## Next Steps
+{: #next-steps-planning}
 
 * [Provisioning SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-provision#provision)
+
 * [Managing SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-manage#manage)

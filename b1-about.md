@@ -3,7 +3,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-03-04"
+lastupdated: "2019-08-20"
 
 keywords: SAP Business One, enterprise resource planning, ERP, financials, sales, inventory
 
@@ -15,7 +15,7 @@ subcollection: sap-b1
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
@@ -23,13 +23,13 @@ subcollection: sap-b1
 # About SAP Business One
 {: #about}
 
-SAP Business One is an enterprise resource planning (ERP) planning software for small- to medium-sized businesses. You have the flexibility of deploying the software through either the cloud or on-premises. The application supports multiple languages and numerous country-specific versions, and is delivered and supported locally by a network of SAP partners. It runs on both the SAP HANA and Microsoft SQL Server platforms and helps with the day-to-day operations of your enterprise. SAP Business One is fully integrated with SAP Crystal Reports, which lets you create dashboards and custom reports. And the best part? SAP Business One can be accessed through a mobile device, letting you and your staff be productive anywhere. For more information, see [SAP Business One ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.sap.com/products/business-one.html){: new_window}
+SAP Business One is an enterprise resource planning (ERP) planning software for small- to medium-sized businesses. You have the flexibility of deploying the software through either the cloud or on-premises. The application supports multiple languages and numerous country-specific versions, and is delivered and supported locally by a network of SAP partners. It runs on both the SAP HANA and Microsoft SQL Server platforms and helps with the day-to-day operations of your enterprise. SAP Business One is fully integrated with SAP Crystal Reports, which lets you create dashboards and custom reports. And the best part? SAP Business One can be accessed through a mobile device, letting you and your staff be productive anywhere. For more information, see [SAP Business One](https://www.sap.com/products/business-one.html){: external}
 {: shortdesc}
 
 ## Managing your processes
 {: #processes}
 
-You select the ERP processes that your business needs today and then expand when you're ready. SAP Business One helps you manage your finances, customers, sales, order-to-pay cycle, inventory and distribution, business intelligence, and reporting. For more information, see [Capabilities ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.sap.com/products/business-one/features.html){: new_window}
+You select the ERP processes that your business needs today and then expand when you're ready. SAP Business One helps you manage your finances, customers, sales, order-to-pay cycle, inventory and distribution, business intelligence, and reporting. For more information, see [Capabilities](https://www.sap.com/products/business-one/features.html){: external}
 
 ### Financial management
 {: #financials}
