@@ -24,7 +24,7 @@ subcollection: sap-b1
 SAP Business One has been certified to run on {{site.data.keyword.baremetal_long}}.
 {: shortdesc}
 
-## SAP Business One on SUSE Linux Enterprise Server (SLES)
+## SAP Business One on SAP HANA
 {: #run-on-hana}
 
 The following table is a list of {{site.data.keyword.baremetal_short}} certified to run SAP Business One on HANA in the {{site.data.keyword.cloud}}. For information on how to decipher the server name, see [Determining your SAP HANA configuration](/docs/infrastructure/sap-hana?topic=sap-hana-determine_configuration).
@@ -60,12 +60,12 @@ All the listed servers have been certified for the Windows Server 16 operating s
 | [BI.S4.NW768 (OS Options)](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=8451&packageId=2644&itemId=13289&clearCache=true){: external} | 40 | 768 GB |
 {: caption="Table 1. SAP NetWeaver servers for SAP Business One " caption-side="top"}
 
-More information can be found in [SAP Notes 2058870](https://launchpad.support.sap.com/#/2058870){: external} and [2586742](https://launchpad.support.sap.com/#/2586742){: external}, and [SAP Business One How-to Guides](https://help.sap.com/viewer/83196e2e80d941d798668e7c34568832/9.3/en-US){: external}.
+More information can be found in [SAP Notes 2058870](https://launchpad.support.sap.com/#/notes/2058870){: external} and [2586742](https://launchpad.support.sap.com/#/notes/2586742){: external}, and [SAP Business One How-to Guides](https://help.sap.com/viewer/83196e2e80d941d798668e7c34568832/9.3/en-US){: external}.
 
 ## Training
 {: #training}
 
-There is training on the integration framework for SAP Business One. The self-paced, online course takes you through scenario design basics, the integration of SAP Business One, and integrating the SAP Business One database. For more information on the course, click [here)](https://open.sap.com/courses/ifb1){: external}.
+There is training on the integration framework for SAP Business One. The self-paced, online course takes you through scenario design basics, the integration of SAP Business One, and integrating the SAP Business One database. For more information on the course, click [here](https://open.sap.com/courses/ifb1){: external}.
 
 Training is also available on the different SAP Business One modules. For more information on the courses, see [SAP Training](https://training.sap.com/search?filters%5Btraining_path%5D%5BTraining+Path%5D=on&q=){: external}. Enter *SAP Business One* in the Search bar to narrow your search to courses specific to SAP Business One.
 

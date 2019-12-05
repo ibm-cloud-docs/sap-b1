@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-12-03"
+lastupdated: "2019-12-05"
 
 keywords: SAP Business One, enterprise resource planning, ERP, accounting and financials, purchasing and inventory, sales and customer relationships, project management and operations, {{site.data.keyword.baremetal_long}}, {{site.data.keyword.baremetal_short}}
 
@@ -36,7 +36,7 @@ Table 1 contains links to more information on SAP Business One and how you can m
 | [Implementing SAP Business One](https://www.sap.com/products/business-one/implementation.html){: external} | You have the choice of working with an SAP partner or installing the software yourself. |
 {: caption="Table 1. SAP Business One resources" caption-side="top"}
 
-If you're planning on running on-premises, review the [SAP Business One Hardware Requirements Guide](https://sap.silvertouch.com/wp-content/uploads/2018/07/b1-hardware-requirements-guide-new.pdf){: external} and [SAP Business One Platform Support Matrix](https://support.sap.com/en/offerings-programs/support-small-medium-enterprises/business-one.html){: external}. For more implementation-related information, see [Product Implementation](https://www.sap.com/products/business-one/implementation.html){: external}.
+Review the [SAP Business One Hardware Requirements Guide](https://sap.silvertouch.com/wp-content/uploads/2018/07/b1-hardware-requirements-guide-new.pdf){: external} and [SAP Business One Platform Support Matrix](https://support.sap.com/en/offerings-programs/support-small-medium-enterprises/business-one.html){: external}. For more implementation-related information, see [Product Implementation](https://www.sap.com/products/business-one/implementation.html){: external}.
 {: note}
 
 ## Next Steps
