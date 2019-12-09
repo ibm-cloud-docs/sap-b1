@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-12-05"
+lastupdated: "2019-12-09"
 
 keywords: SAP Business One
 
@@ -47,7 +47,9 @@ All the listed servers have been certified for the SLES 12 SP4 operating system 
 
 The following table is a list of the SAP NetWeaver-certified servers that have been certified to run SAP Business One. For information on how to decipher the server name, see [Setting up your SAP NetWeaver infrastructure](/docs/infrastructure/sap-netweaver?topic=sap-netweaver-set_up_infrastructure).
 
-All the listed servers have been certified for the Windows Server 16 operating system only at this time.
+lists the supported Microsoft Windows Server versions for these SAP Business One server platforms.
+
+For a list of Microsoft Windows Server versions supported for the following SAP Business One server platforms, see the [SAP Business One Platform Support Matrix](https://help.sap.com/doc/011000358700000032462013e/9.3/en-US/B1_Platform_Support_Matrix.pdf){: external}.
 {: note}
 
 | **Server type** | **Cores** | **RAM** |
