@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019
-lastupdated: "2019-12-09"
+  years: 2019, 2020
+lastupdated: "2020-07-21"
 
 keywords: SAP Business One
 
@@ -27,25 +27,25 @@ SAP Business One has been certified to run on {{site.data.keyword.baremetal_long
 ## SAP Business One on SAP HANA
 {: #run-on-hana}
 
-The following table is a list of {{site.data.keyword.baremetal_short}} certified to run SAP Business One on HANA in the {{site.data.keyword.cloud}}. For information on how to decipher the server name, see [Determining your SAP HANA configuration](/docs/infrastructure/sap-hana?topic=sap-hana-determine_configuration).
+The following table is a list of {{site.data.keyword.baremetal_short}} certified to run SAP Business One on HANA in the {{site.data.keyword.cloud}}. For information on how to decipher the server name, see [Determining your SAP HANA configuration](/docs/sap-hana?topic=sap-hana-determine_configuration).
 
 All the listed servers have been certified for the SLES 12 SP4 operating system only at this time.
 {: note}
 
 | **Server type** | **Cores** | **RAM** |
 | --- | --- | --- | --- |
-| [BI.S3.H2.192](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=13475&packageId=1045&presetId=823){: external} | 32 | 192 GB |
-| [BI.S3.H2.384](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=13475&packageId=1045&presetId=825){: external} | 32 | 384 GB |
-| [BI.S3.H2.768](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=13475&packageId=1045&presetId=827){: external} | 40 | 768 GB |
-| [BI.S4.H2.192 Appliance](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=13475&packageId=1109&presetId=1087){: external} | 32 | 192 GB |
-| [BI.S4.H2.384 Appliance](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=13475&packageId=1109&presetId=1091){: external} | 32 | 384 GB |
-| [BI.S4.H2.768 Appliance](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=13475&packageId=1109&presetId=1095){: external} | 40 | 768 GB |
+| [BI.S3.H2.192](http://ibm.biz/S3_H2_192_B1){: external} | 36 | 192 GB |
+| [BI.S3.H2.384](http://ibm.biz/S3_H2_384_B1){: external} | 36 | 384 GB |
+| [BI.S3.H2.768](http://ibm.biz/S3_H2_768_B1){: external} | 36 | 768 GB |
+| [BI.S4.H2.192 Appliance](http://ibm.biz/S4_H2_192_B1){: external} | 32 | 192 GB |
+| [BI.S4.H2.384 Appliance](http://ibm.biz/S4_H2_384_B1){: external} | 32 | 384 GB |
+| [BI.S4.H2.768 Appliance](http://ibm.biz/S4_H2_768_B1){: external} | 40 | 768 GB |
 {: caption="Table 1. SAP HANA servers for SAP Business One" caption-side="top"}
 
 ## SAP Business One on Microsoft SQL
 {: #run-on-premises}
 
-The following table is a list of the SAP NetWeaver-certified servers that have been certified to run SAP Business One. For information on how to decipher the server name, see [Setting up your SAP NetWeaver infrastructure](/docs/infrastructure/sap-netweaver?topic=sap-netweaver-set_up_infrastructure).
+The following table is a list of the SAP NetWeaver-certified servers that have been certified to run SAP Business One. For information on how to decipher the server name, see [Setting up your SAP NetWeaver infrastructure](/docs/sap-netweaver?topic=sap-netweaver-set_up_infrastructure).
 
 lists the supported Microsoft Windows Server versions for these SAP Business One server platforms.
 
@@ -54,12 +54,12 @@ For a list of Microsoft Windows Server versions supported for the following SAP 
 
 | **Server type** | **Cores** | **RAM** |
 | --- | --- | --- | --- |
-| [BI.S3.NW32 (OS Options)](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=8451&packageId=1041&itemId=1083){: external} | 4 | 32 GB |
-| [BI.S3.NW64 (OS Options)](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=8451&packageId=1043&itemId=10831){: external} | 4 | 64 GB |
-| [BI.S3.NW192 (OS Options)](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=8451&packageId=989&itemId=10437){: external} | 36 | 192 GB |
-| [BI.S4.NW192 (OS Options)](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=8451&packageId=2640&itemId=13285&clearCache=true){: external} | 32 | 192 GB |
-| [BI.S4.NW384 (OS Options)](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=8451&packageId=2642&itemId=13285&clearCache=true){: external} | 32 | 384 GB |
-| [BI.S4.NW768 (OS Options)](https://cloud.ibm.com/gen1/infrastructure/provision/bm?imageItemId=8451&packageId=2644&itemId=13289&clearCache=true){: external} | 40 | 768 GB |
+| [BI.S3.NW32 (OS Options)](http://ibm.biz/S3_NW32_B1){: external} | 4 | 32 GB |
+| [BI.S3.NW64 (OS Options)](http://ibm.biz/S3_NW64_B1){: external} | 4 | 64 GB |
+| [BI.S3.NW192 (OS Options)](http://ibm.biz/S3_NW192_B1){: external} | 36 | 192 GB |
+| [BI.S4.NW192 (OS Options)](http://ibm.biz/S4_NW192_B1){: external} | 32 | 192 GB |
+| [BI.S4.NW384 (OS Options)](http://ibm.biz/S4_NW384_B1){: external} | 32 | 384 GB |
+| [BI.S4.NW768 (OS Options)](http://ibm.biz/S4_NW768_B1){: external} | 40 | 768 GB |
 {: caption="Table 1. SAP NetWeaver servers for SAP Business One " caption-side="top"}
 
 More information can be found in [SAP Notes 2058870](https://launchpad.support.sap.com/#/notes/2058870){: external} and [2586742](https://launchpad.support.sap.com/#/notes/2586742){: external}, and [SAP Business One How-to Guides](https://help.sap.com/viewer/83196e2e80d941d798668e7c34568832/9.3/en-US){: external}.
@@ -74,4 +74,4 @@ Training is also available on the different SAP Business One modules. For more i
 ## Next Steps
 {: #next-steps-provision}
 
-* [Managing SAP Business One](/docs/infrastructure/sap-b1?topic=sap-b1-manage#manage)
+* [Managing SAP Business One](/docs/sap-b1?topic=sap-b1-manage#manage)
